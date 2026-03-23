@@ -38,4 +38,4 @@ streamlit run app.py
 
 ##  Future Improvements
 - Build machine learning model for rating prediction
-- Create interactive dashboard using Streamlit
+
