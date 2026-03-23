@@ -27,6 +27,13 @@ Zomato-Data-Analysis/
 ├── Zomato_data.csv
 ├── README.md
 ```
+## 🚀 Streamlit App
+
+This project also includes an interactive Streamlit application.
+
+### ▶️ Run Locally
+```bash
+streamlit run app.py
 
 
 ##  Future Improvements
